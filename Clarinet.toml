@@ -29,6 +29,11 @@ epoch = 3.1
 path = 'contracts/Election-Delegation.clar'
 clarity_version = 3
 epoch = 3.1
+
+[contracts.Election-Turnout-Incentives]
+path = 'contracts/Election-Turnout-Incentives.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
